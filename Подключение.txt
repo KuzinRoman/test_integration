@@ -1,0 +1,5 @@
+Адрес: hawk.rmq.cloudamqp.com
+Порт: 5672
+Логин: jrydwbcn
+Пароль: kcSz9B2MrSUdCOLTJAK1dEKQepDDICNR
+Виртуальный хост: jrydwbcn
